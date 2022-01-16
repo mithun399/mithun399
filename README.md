@@ -25,8 +25,8 @@
     <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a> 
     <a style="padding-right:8px;" href="https://www.php.net/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/php.png"/> </a> 
      <a href="https://laravel.com/docs/8.x/installation" target="_blank"> <img src="https://img.icons8.com/external-tal-revivo-duo-tal-revivo/2x/external-laravel-is-a-free-open-source-php-web-framework-logo-duo-tal-revivo.png"/> </a>
-      <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c.png"/> </a> 
-      <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
+      <a href="https://www.programiz.com/c-programming" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c.png"/> </a> 
+      <a href="https://www.python.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
      <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a> 
     <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> </a>   
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
