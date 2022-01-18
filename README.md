@@ -5,7 +5,7 @@
 
 
 ## 🙋‍♂️ About Me
-
+- 🔭 I’m currently working on **Building various skill**
 - 👀 I’m interested in **Coding**
 
 - 🌱 I’m currently learning **Laravel-8 & React JS**
