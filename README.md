@@ -81,4 +81,4 @@
 </a>
 <a href="https://github.com/SubhamRaoniar28?tab=followers"><img src="https://img.shields.io/github/followers/mithun399?label=Followers&style=social" alt="GitHub Badge"></a>
 
-[Snake animation](https://github.com/mithun399/mithun399/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/mithun399/mithun399/blob/output/snake.svg)
