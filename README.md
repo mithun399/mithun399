@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Laravel-8 & React JS**
 
-- 👯 I’m looking to collaborate on **Team Work**
+- 👯 I’m looking to collaborate on **Open Source Project**
 
 - 📫 How to reach me **msovik399@gmail.com**
 
@@ -79,5 +79,5 @@
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=mithun399">
 </a>
-<a href="https://github.com/SubhamRaoniar28?tab=followers"><img src="https://img.shields.io/github/followers/mithun399?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/mithun399?tab=followers"><img src="https://img.shields.io/github/followers/mithun399?label=Followers&style=social" alt="GitHub Badge"></a>
 
